@@ -1,0 +1,15 @@
+F:\C#\Dice-Roll-Sim-Assignment\bin\Debug\net7.0\Dice-Roll-Sim-Assignment.exe
+F:\C#\Dice-Roll-Sim-Assignment\bin\Debug\net7.0\Dice-Roll-Sim-Assignment.deps.json
+F:\C#\Dice-Roll-Sim-Assignment\bin\Debug\net7.0\Dice-Roll-Sim-Assignment.runtimeconfig.json
+F:\C#\Dice-Roll-Sim-Assignment\bin\Debug\net7.0\Dice-Roll-Sim-Assignment.dll
+F:\C#\Dice-Roll-Sim-Assignment\bin\Debug\net7.0\Dice-Roll-Sim-Assignment.pdb
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\Dice-Roll-Sim-Assignment.csproj.AssemblyReference.cache
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\Dice-Roll-Sim-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\Dice-Roll-Sim-Assignment.AssemblyInfoInputs.cache
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\Dice-Roll-Sim-Assignment.AssemblyInfo.cs
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\Dice-Roll-Sim-Assignment.csproj.CoreCompileInputs.cache
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\Dice-Roll-Sim-Assignment.dll
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\refint\Dice-Roll-Sim-Assignment.dll
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\Dice-Roll-Sim-Assignment.pdb
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\Dice-Roll-Sim-Assignment.genruntimeconfig.cache
+F:\C#\Dice-Roll-Sim-Assignment\obj\Debug\net7.0\ref\Dice-Roll-Sim-Assignment.dll
